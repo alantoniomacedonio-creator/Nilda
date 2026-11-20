@@ -1,0 +1,6 @@
+{
+  "name": "Nilda Marsili — Artista Plástica | Santa Fe Capital",
+  "description": "Archivo curatorial y portafolio de Nilda Raquel Marsili, artista plástica y Doctora en Ciencias Biológicas de Santa Fe Capital. Pintura, grabado, cerámica, escultura e instalaciones en el cruce entre arte y ciencia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
